@@ -28,4 +28,4 @@ ETA of completion: Late 2021.
 Started mockup, added more info to srs-document and started tech stack visualisation
 
 # Mockup
-Mockup can be viewed at: [](https://www.figma.com/file/bk4hP8W5uOanNY6ANlQ9AD/Bug-It?node-id=2%3A8)
+Mockup can be viewed at: [Figma mockup tool](https://www.figma.com/file/bk4hP8W5uOanNY6ANlQ9AD/Bug-It?node-id=2%3A8)
