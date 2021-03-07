@@ -19,6 +19,8 @@ Application will have user account control.
 
 ## Definitions
 
+>Todo
+ 
 ## Overall Description
 
 Bug-it is an issue-tracker, made for issue tracking, with a focus on easy user experience. The application will include basic issue controlling and user account management.
@@ -30,6 +32,9 @@ As a user, I want to be able to do basic issue tasking like adding issues and ed
 
 
 ## Assumptions and Dependencies
+
+>Todo
+ 
 
 ## System Features and Requirements
 
@@ -52,14 +57,21 @@ As a user, I want to be able to do basic issue tasking like adding issues and ed
 
 ## Functional Requirements
 
+>Todo
+ 
+
 ## External Interface Requirements
 
+>Todo
+ 
 ## System Features
 
+>Todo
+ 
 ## Non-functional Requirements
 
 | Code | Requirement | Info |
-|---|---|---|---|
+|---|---|---|
 | NF01  | Easy of use | App is easy to use, and easy to learn. Issue controlling is made simple |
-| NF02  | Security   | User data is secured |
+| NF02  | Security | User data is secured |
 | NF03  | Visuality | Issues are visualized and their status is easy to identify  | 
