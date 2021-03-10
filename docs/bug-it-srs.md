@@ -19,7 +19,7 @@ Application will have user account control.
 
 ## Definitions
 
->Todo
+App - as in This application, Bug-it.
  
 ## Overall Description
 
@@ -29,11 +29,6 @@ Bug-it is an issue-tracker, made for issue tracking, with a focus on easy user e
 ## User Needs
 
 As a user, I want to be able to do basic issue tasking like adding issues and editing their issue-state. I want the application to be easy to use and visual, so that I can track down my issues at one glance.
-
-
-## Assumptions and Dependencies
-
->Todo
  
 
 ## System Features and Requirements
@@ -57,21 +52,24 @@ As a user, I want to be able to do basic issue tasking like adding issues and ed
 
 ## Functional Requirements
 
->Todo
- 
+| Code | Requirement | Info |
+|---|---|---|
+| FR01  | Issue control | As a user, I want to control my issues, and set their status |
+| FR02  | Milestone control | As a user, I want that I can add milestones to track my progress on issues |
+| FR03  | Login system | As a user, I want that I can change my password and reset it.  | 
 
 ## External Interface Requirements
 
->Todo
+No external requirements so far.
  
 ## System Features
 
->Todo
+
  
 ## Non-functional Requirements
 
-| Code | Requirement | Info |
+| Code | Requirement | Description |
 |---|---|---|
-| NF01  | Easy of use | App is easy to use, and easy to learn. Issue controlling is made simple |
-| NF02  | Security | User data is secured |
-| NF03  | Visuality | Issues are visualized and their status is easy to identify  | 
+| NFR01  | Easy of use | As a user, I want that the app is easy to use, and easy to learn. Issue controlling is made simple |
+| NFR02  | Security | As a user, I want that my data is secured |
+| NFR03  | Visuality | As a user, I want that the issues are visualized and their status is easy to identify  | 
