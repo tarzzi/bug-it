@@ -4,8 +4,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Bug-It</title>
+        <link rel="icon" href="https://urrio.fi" />
       </Head>
 
       <main>

@@ -1,0 +1,11 @@
+{
+  "name": "backend-source",
+  "version": "1.0.0",
+  "description": "Backend of Bug-It",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarmo Urrio",
+  "license": "ISC"
+}
