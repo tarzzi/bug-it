@@ -8,6 +8,8 @@ Bug-it will be a bug tracker for projects and or anything else one desires to us
 
 ETA of completion: Late 2021.
 
+[Software requirement specification doc here](https://github.com/tarzzi/bug-it/blob/main/docs/bug-it-srs.md)
+
 # Features
 
 | Feature | Details | Priority | Other |
@@ -28,6 +30,8 @@ ETA of completion: Late 2021.
 | P4 | Nice-to-have, will do at some point |
 
 # Updates
+*10.03.2021*
+Edited Srs-document and readme, edited mockup.
 
 *07.03.2021*
 Started mockup, added more info to srs-document and started tech stack visualisation
