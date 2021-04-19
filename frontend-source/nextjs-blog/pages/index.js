@@ -14,7 +14,6 @@ export default function Home() {
           <div className="flex flex-row">
 
             <Sidepanel />
-
             <div className="w-full mt-10  flex-col sm:flex-row sm:justify-around border-red-60">
                 <p className="text-5xl py-3 text-center">
                   HELLO

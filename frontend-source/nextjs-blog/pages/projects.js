@@ -15,7 +15,7 @@ export default function Projects() {
 
                 <Sidepanel />
 
-                <div className="w-full mt-10  flex-col sm:flex-row sm:justify-around border-red-60">
+                <div className="w-full p-8 mt-10  flex-col sm:flex-row sm:justify-around border-red-60">
                     PROJECTS HERE
                 </div>
             </div>

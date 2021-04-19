@@ -12,11 +12,22 @@ export default function Issues() {
             </Head>
 
             <div className="flex flex-row">
-
                 <Sidepanel />
+                <div className="w-full p-8 mt-10  text-2xl flex-row sm:flex-row sm:justify-around border-red-60">
+                    <div className="project-select p-10 flex-row">
+                        <h1 className="text-2xl text-center">ISSUES HERE</h1>
+                        <p>Select project</p>
+                        <select className="my-2">
+                            <option>Projekti 1</option>
+                            <option>Projekti 2</option>
+                            <option>Projekti 3</option>
+                            <option>Projekti 4</option>
+                            <option>Projekti 5</option>
+                        </select>
+                        </div>
+                    <div>
 
-                <div className="w-full mt-10  flex-col sm:flex-row sm:justify-around border-red-60">
-                   ISSUES HERE
+                    </div>
                 </div>
             </div>
             <Footer />
